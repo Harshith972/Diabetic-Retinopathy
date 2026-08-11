@@ -11,7 +11,8 @@ An automated screening system designed to detect and classify the severity of Di
 * Live Web Application: [Streamlit Screening App](https://diabetic-retinopathy-sfsdapp56zgeupklkmskxrb.streamlit.app/)
 * Google Colab Development Notebook: [diabetic_rethiopathy.ipynb](https://colab.research.google.com/drive/1Q21H3GiLxDMyR_yrjksKrzcUP_BFDTdx)
 * Interactive Portfolio: [Harshith Reddy Janga's Portfolio](https://jangaharshithportfolio.lovable.app/)
-* github : [Github](https://github.com/Harshith972/Diabetic-Retinopathy)
+* youtube video explaination: https://youtu.be/JTlaSCXV_SA?si=S0_t1ZF2NtPW8AnB
+
 ---
 
 ## Executive Summary
